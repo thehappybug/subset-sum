@@ -1,4 +1,4 @@
-# Linear Time Selection
+# Subset Sum Algorithm
 
 Implements the *Subset Sum Problem* using recursive backtracking. Implementation is provided as `SubsetSum` class contained in the package `io.gitbub.thehappybug.Algorithms`.
 
@@ -13,7 +13,7 @@ javac io/github/thehappybug/Algorithms/SubsetSum.java
 
 ## Running
 
-Run the class `LinearTimeSelection`'s `main` method using:
+Run the class `SubsetSum`'s `main` method using:
 
 ```
 $ java io.github.thehappybug.Algorithms.SubsetSum
